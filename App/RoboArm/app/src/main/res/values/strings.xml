@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoboArm</string>
+    <string-array name="menu_array">
+        <item>Return to Original</item>
+        <item>Pickup Item</item>
+        <item>Drop Item</item>
+        <item>Toss Item</item>
+    </string-array>
+</resources>
